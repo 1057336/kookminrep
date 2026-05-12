@@ -1,0 +1,16 @@
+1  Diligent 부지런한
+2  Coherent "일관성 있는, 논리 정연한"
+3  Stagnant 고여 있는, 침체된, 활기가 없는
+4  Alleviate 완화하다
+5  Nuance "미묘한 차이, 뉘앙스"
+6  Skeptic 회의론자, 의심하는 사람
+7  Profound 심오한
+8  Articulate "분명하게 표현하다, 또박또박 말하다"
+9  Conundrum 수수께끼, 난제, 어려운 문제
+10 Resonance 울림
+11 Superfluous "불필요한, 과잉의"
+12 Integrity 진실성, 고결함, 온전함
+13 Ephemeral 수명이 짧은
+14 Paradigm "전형적인 예, 인식의 체계"
+15 Innate 타고난, 선천적인, 고유한
+16 Whimsical 기발한
